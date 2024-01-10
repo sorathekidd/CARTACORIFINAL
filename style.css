@@ -1,0 +1,26 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+}
+
+.carta {
+    width: 80%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: aquamarine
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.titulo {
+    text-align: center;
+    font-size: 2em;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.texto {
+    font-weight: bold;
+    text-align: center;
+}
